@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;AlternativePathCalculator.java&apos; to &apos;jp.ac.sojou.cis.izumi.maharano.AlternativePathCalculator.java&apos;&#x0A;- Original project: &apos;PathAnalysis&apos;&#x0A;- Destination element: &apos;jp.ac.sojou.cis.izumi.maharano.AlternativePathCalculator.java&apos;&#x0A;- Original element: &apos;jp.ac.sojou.cis.izumi.maharano.AlternativePathCalculator.java&apos;" description="Copy compilation unit" destination="/src&lt;jp.ac.sojou.cis.izumi.maharano{AlternativePathCalculator.java" element1="/src&lt;jp.ac.sojou.cis.izumi.maharano{AlternativePathCalculator.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1458625716388" units="1" version="1.0"/>
-</session>
